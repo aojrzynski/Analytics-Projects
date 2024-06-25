@@ -50,7 +50,7 @@ FROM
 		FROM names
 		GROUP BY State
 	)
-    -- Calculate the percentage of births with the name 'Chris' in each state.
+    -- Calculate the percentage of births with the name 'Adam' in each state.
 	SELECT cc.State, cc.num_adam, ca.num_babies
 	FROM count_adam cc INNER JOIN count_all ca
 	ON cc.State = ca.State
