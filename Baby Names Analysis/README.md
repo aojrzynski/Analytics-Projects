@@ -21,25 +21,6 @@ This project analyzes the popularity of baby names over time, across different r
 1. **Setup the Database**: Use `create_baby_names_db.sql` to create the database and load the data from `names_data.csv`. There is a manual step invovled, please read the comments in the sql file.
 2. **Run Analysis Scripts**: Execute the SQL scripts in the `scripts/` folder to perform various analyses.
 
-## Data Source
-
-- The data is sourced from the `names_data.csv` file.
-- The `baby_names_db_data_dictionary.csv` file provides a detailed description of the data columns.
-
-## Analysis Overview
-
-### 1. Changes in Name Popularity
-- Analyzes how the popularity of names has changed over the years.
-
-### 2. Compare Popularity Across Decades
-- Compares the popularity of names across different decades.
-
-### 3. Compare Popularity Across Regions
-- Compares the popularity of names across different regions.
-
-### 4. Explore Unique Names
-- Identifies and explores unique names, including androgynous names.
-
 ## License
 
 This project is licensed under the MIT License.
