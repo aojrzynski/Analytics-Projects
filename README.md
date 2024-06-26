@@ -12,7 +12,7 @@ Welcome to the Analytics Projects repository. This repository contains various d
 
 ### World Economic Indicators
 - **Description:** This project aims to provide a report on the state of the global economy by analyzing datasets from the Human Development Index (HDI) and the World Bank. The goal is to highlight key insights and trends that are shaping the economic landscape across different regions and countries.
-- **Technologies USed:** Python, Pandas, Numpy, Matplotlib, Seaborn
+- **Technologies Used:** Python, Pandas, Numpy, Matplotlib, Seaborn
 
 ## Usage
 Each project folder contains specific instructions on how to run the scripts and notebooks. Refer to the README file within each project folder for detailed usage guidelines.
